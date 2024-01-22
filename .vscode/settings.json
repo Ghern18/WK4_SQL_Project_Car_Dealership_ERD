@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "Car_Dealership",
+            "connectString": "postgres://larxiwcs:z2eJ19LYzdNq5TxtlzEROQE6FhOAuF1x@heffalump.db.elephantsql.com/larxiwcs"
+        }
+    ]
+}
